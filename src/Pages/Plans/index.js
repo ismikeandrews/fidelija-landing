@@ -127,7 +127,7 @@ const Plans = () => {
                                         <h4 className="u-text u-text-custom-color-2 u-text-default u-text-9">
                                             Plano PRO
                                         </h4>
-                                        <a href="https://nicepage.com/c/gallery-website-templates" className="u-active-custom-color-3 u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-31 u-text-body-alt-color u-btn-2">
+                                        <a href="#" className="u-active-custom-color-3 u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-31 u-text-body-alt-color u-btn-2">
                                             Economize R$100
                                         </a>
                                         <h1 className="u-custom-font u-font-pt-sans u-text u-text-custom-color-2 u-text-default u-text-10">
@@ -176,11 +176,6 @@ const Plans = () => {
                     </p>
                     <div className="u-expanded-width u-table u-table-responsive u-table-1">
                         <table className="u-table-entity u-table-entity-1">
-                            {/* <colgroup>
-                                <col width="28.2%">
-                                <col width="36.2%">
-                                <col width="35.6%">
-                            </colgroup> */}
                             <thead className="u-align-center u-custom-color-2 u-table-header u-table-header-1">
                                 <tr style={{height: "21px"}}>
                                     <th className="u-align-left u-table-cell">

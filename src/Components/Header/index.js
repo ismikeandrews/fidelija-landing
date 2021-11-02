@@ -57,7 +57,7 @@ const Header = () => {
                                 </Link>
                             </li>
                             <li className="u-nav-item">
-                                <a className="u-border-2 u-border-active-custom-color-1 u-border-hover-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-grey-90" href="https://parceiro.fidelija.com.br/login" style={{padding: '10px 0px'}}>
+                                <a className="u-border-2 u-border-active-custom-color-1 u-border-hover-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-grey-90" href="https://parceiro.fidelija.com.br/" style={{padding: '10px 0px'}}>
                                     Entrar
                                 </a>
                             </li>
@@ -84,7 +84,7 @@ const Header = () => {
                                         </Link>
                                     </li>
                                     <li className="u-nav-item">
-                                        <a className="u-button-style u-nav-link" href="https://parceiro.fidelija.com.br/login" style={{padding: '10px 0px'}}>
+                                        <a className="u-button-style u-nav-link" href="https://parceiro.fidelija.com.br/" style={{padding: '10px 0px'}}>
                                             Entrar
                                         </a>
                                     </li>

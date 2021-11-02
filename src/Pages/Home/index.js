@@ -35,7 +35,7 @@ const Home = () => {
                                     <p className="u-custom-font u-font-montserrat u-text u-text-body-alt-color home-text-2"> 
                                         Tenha seu plano de fidelização de cliente,<br/>e melhor, totalmente gratuito.
                                     </p>
-                                    <a href="https://parceiro.fidelija.com.br/login" className="u-active-palette-2-base u-border-none u-btn u-btn-round u-button-style u-custom-color-4 u-custom-font u-font-raleway u-hover-custom-color-5 u-radius-50 u-text-body-alt-color home-btn-1">entrar</a>
+                                    <a href="https://parceiro.fidelija.com.br/" className="u-active-palette-2-base u-border-none u-btn u-btn-round u-button-style u-custom-color-4 u-custom-font u-font-raleway u-hover-custom-color-5 u-radius-50 u-text-body-alt-color home-btn-1">entrar</a>
                                 </div>
                             </div>
                             <div className="u-container-style u-layout-cell u-size-31-lg u-size-32-xl u-size-60-md u-size-60-sm u-size-60-xs home-layout-cell-2">
@@ -696,7 +696,7 @@ const Home = () => {
                                             Sabemos que não é fácil ser empreendor, garra e a coragem é o que não nos falta. 
                                             Estaremos ao seu lado nessa joranada fantástica, basta querer.
                                         </p>
-                                        <a href="https://parceiro.fidelija.com.br" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 home-btn-1">
+                                        <a href="https://parceiro.fidelija.com.br/" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 home-btn-1">
                                             Comece agora
                                         </a>
                                         <div className="u-social-icons u-spacing-30 home-social-icons-1">
