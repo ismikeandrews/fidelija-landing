@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, BrowserRouter, Route } from 'react-router-dom';
-import { Header } from '../Components';
+import { Header, Footer } from '../Components';
 import { Home } from '../Pages';
 
 const Routes = () => {
@@ -10,6 +10,7 @@ const Routes = () => {
             <Switch>
                 <Route path="/" exact component={Home}/>
             </Switch>
+            <Footer/>
         </BrowserRouter>
     )
 }
