@@ -1,2 +1,0 @@
-(this["webpackJsonpfidelija-landing"]=this["webpackJsonpfidelija-landing"]||[]).push([[0],{9:function(n,e,t){"use strict";t.r(e);t(0);var i=t(3),c=t.n(i),r=t(1),s=function(){return Object(r.jsx)("h1",{children:"Ol\xe1"})};c.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.632fc60f.chunk.js.map

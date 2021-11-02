@@ -1,17 +1,37 @@
 {
   "files": {
-    "main.js": "/static/js/main.632fc60f.chunk.js",
-    "main.js.map": "/static/js/main.632fc60f.chunk.js.map",
+    "main.css": "/static/css/main.c6cea684.chunk.css",
+    "main.js": "/static/js/main.5e807b1f.chunk.js",
+    "main.js.map": "/static/js/main.5e807b1f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c61bef00.js",
     "runtime-main.js.map": "/static/js/runtime-main.c61bef00.js.map",
-    "static/js/2.473dd10b.chunk.js": "/static/js/2.473dd10b.chunk.js",
-    "static/js/2.473dd10b.chunk.js.map": "/static/js/2.473dd10b.chunk.js.map",
+    "static/js/2.fb2515fd.chunk.js": "/static/js/2.fb2515fd.chunk.js",
+    "static/js/2.fb2515fd.chunk.js.map": "/static/js/2.fb2515fd.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.473dd10b.chunk.js.LICENSE.txt": "/static/js/2.473dd10b.chunk.js.LICENSE.txt"
+    "static/css/main.c6cea684.chunk.css.map": "/static/css/main.c6cea684.chunk.css.map",
+    "static/js/2.fb2515fd.chunk.js.LICENSE.txt": "/static/js/2.fb2515fd.chunk.js.LICENSE.txt",
+    "static/media/barber.8f9857e1.jpg": "/static/media/barber.8f9857e1.jpg",
+    "static/media/barista.f5a4804e.jpg": "/static/media/barista.f5a4804e.jpg",
+    "static/media/carrefour.26e2a6df.png": "/static/media/carrefour.26e2a6df.png",
+    "static/media/home.css": "/static/media/rocket.b44cf260.jpg",
+    "static/media/donuz.cfd1cd74.png": "/static/media/donuz.cfd1cd74.png",
+    "static/media/fidelija-logo.903316ba.png": "/static/media/fidelija-logo.903316ba.png",
+    "static/media/jessica.b679f197.JPG": "/static/media/jessica.b679f197.JPG",
+    "static/media/livelo.ae953d0d.png": "/static/media/livelo.ae953d0d.png",
+    "static/media/logo-clube-extra.841d0929.png": "/static/media/logo-clube-extra.841d0929.png",
+    "static/media/marketing.237be0a6.png": "/static/media/marketing.237be0a6.png",
+    "static/media/petshop.cf5bf7f0.jpg": "/static/media/petshop.cf5bf7f0.jpg",
+    "static/media/phone.e54396c2.png": "/static/media/phone.e54396c2.png",
+    "static/media/pizza.e22227f5.jpg": "/static/media/pizza.e22227f5.jpg",
+    "static/media/restaurant.d8a34191.jpg": "/static/media/restaurant.d8a34191.jpg",
+    "static/media/shopping.a240b7c4.jpg": "/static/media/shopping.a240b7c4.jpg",
+    "static/media/starbucks.64845585.png": "/static/media/starbucks.64845585.png",
+    "static/media/web.74ba9da5.png": "/static/media/web.74ba9da5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c61bef00.js",
-    "static/js/2.473dd10b.chunk.js",
-    "static/js/main.632fc60f.chunk.js"
+    "static/js/2.fb2515fd.chunk.js",
+    "static/css/main.c6cea684.chunk.css",
+    "static/js/main.5e807b1f.chunk.js"
   ]
 }
