@@ -13,4 +13,8 @@ export { default as Barista } from './Images/barista.jpg';
 export { default as Restaurant } from './Images/restaurant.jpg';
 export { default as Petshop } from './Images/petshop.jpg';
 export { default as Barber } from './Images/barber.jpg';
+export { default as Usage } from './Images/usage.png';
+export { default as Steve } from './Images/steve.png';
+export { default as Qrcode } from './Images/qrcode.jpg';
+export { default as Payment } from './Images/payment.jpg';
 export { default as Jessica } from './Images/jessica.JPG';

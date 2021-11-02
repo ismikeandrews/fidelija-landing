@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.61977161.chunk.css",
-    "main.js": "/static/js/main.f4730298.chunk.js",
-    "main.js.map": "/static/js/main.f4730298.chunk.js.map",
+    "main.css": "/static/css/main.c9964a54.chunk.css",
+    "main.js": "/static/js/main.68987dc6.chunk.js",
+    "main.js.map": "/static/js/main.68987dc6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c61bef00.js",
     "runtime-main.js.map": "/static/js/runtime-main.c61bef00.js.map",
     "static/js/2.fb2515fd.chunk.js": "/static/js/2.fb2515fd.chunk.js",
     "static/js/2.fb2515fd.chunk.js.map": "/static/js/2.fb2515fd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.61977161.chunk.css.map": "/static/css/main.61977161.chunk.css.map",
+    "static/css/main.c9964a54.chunk.css.map": "/static/css/main.c9964a54.chunk.css.map",
     "static/js/2.fb2515fd.chunk.js.LICENSE.txt": "/static/js/2.fb2515fd.chunk.js.LICENSE.txt",
     "static/media/barber.8f9857e1.jpg": "/static/media/barber.8f9857e1.jpg",
     "static/media/barista.f5a4804e.jpg": "/static/media/barista.f5a4804e.jpg",
@@ -20,18 +20,22 @@
     "static/media/livelo.ae953d0d.png": "/static/media/livelo.ae953d0d.png",
     "static/media/logo-clube-extra.841d0929.png": "/static/media/logo-clube-extra.841d0929.png",
     "static/media/marketing.237be0a6.png": "/static/media/marketing.237be0a6.png",
+    "static/media/payment.ebde70b3.jpg": "/static/media/payment.ebde70b3.jpg",
     "static/media/petshop.cf5bf7f0.jpg": "/static/media/petshop.cf5bf7f0.jpg",
     "static/media/phone.e54396c2.png": "/static/media/phone.e54396c2.png",
     "static/media/pizza.e22227f5.jpg": "/static/media/pizza.e22227f5.jpg",
+    "static/media/qrcode.6082a4d5.jpg": "/static/media/qrcode.6082a4d5.jpg",
     "static/media/restaurant.d8a34191.jpg": "/static/media/restaurant.d8a34191.jpg",
     "static/media/shopping.a240b7c4.jpg": "/static/media/shopping.a240b7c4.jpg",
     "static/media/starbucks.64845585.png": "/static/media/starbucks.64845585.png",
+    "static/media/usage.css": "/static/media/steve.7a9802b1.png",
+    "static/media/usage.c76c1513.png": "/static/media/usage.c76c1513.png",
     "static/media/web.74ba9da5.png": "/static/media/web.74ba9da5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c61bef00.js",
     "static/js/2.fb2515fd.chunk.js",
-    "static/css/main.61977161.chunk.css",
-    "static/js/main.f4730298.chunk.js"
+    "static/css/main.c9964a54.chunk.css",
+    "static/js/main.68987dc6.chunk.js"
   ]
 }

@@ -28,7 +28,7 @@ const Plans = () => {
                                 <div className="u-container-style u-layout-cell u-size-15-lg u-size-15-xl u-size-17-md u-size-17-sm u-size-17-xs u-layout-cell-2">
                                     <div className="u-container-layout u-container-layout-2">
                                         <ul className="u-custom-list u-text u-text-3">
-                                            <li>
+                                            <li data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="900">
                                                 <div className="u-list-icon u-text-custom-color-1">
                                                     <svg className="u-svg-content" viewBox="0 0 512 512" id="svg-18ed">
                                                         <path 
@@ -36,11 +36,9 @@ const Plans = () => {
                                                         fill="currentColor"></path>
                                                     </svg>
                                                 </div>
-                                            </li>
-                                            <li>
                                                 Suporte inteligente
                                             </li>
-                                            <li>
+                                            <li data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="1400">
                                                 <div className="u-list-icon u-text-custom-color-1">
                                                     <svg className="u-svg-content" viewBox="0 0 512 512" id="svg-18ed">
                                                         <path 
@@ -50,7 +48,7 @@ const Plans = () => {
                                                 </div>
                                                 Clientes ilimitado
                                             </li>
-                                            <li>
+                                            <li data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="1900">
                                                 <div className="u-list-icon u-text-custom-color-1">
                                                     <svg className="u-svg-content" viewBox="0 0 512 512" id="svg-18ed">
                                                         <path 
@@ -66,7 +64,7 @@ const Plans = () => {
                                 <div className="u-container-style u-layout-cell u-size-15-lg u-size-15-xl u-size-16-md u-size-16-sm u-size-16-xs u-layout-cell-3">
                                     <div className="u-container-layout u-container-layout-3">
                                         <ul className="u-custom-list u-text u-text-4">
-                                            <li>
+                                            <li data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="2400">
                                                 <div className="u-list-icon u-text-custom-color-1">
                                                     <svg className="u-svg-content" viewBox="0 0 512 512" id="svg-18ed">
                                                         <path 
@@ -74,11 +72,9 @@ const Plans = () => {
                                                         fill="currentColor"></path>
                                                     </svg>
                                                 </div>
-                                            </li>
-                                            <li>
                                                 Histórico de operação
                                             </li>
-                                            <li>
+                                            <li data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="2900">
                                                 <div className="u-list-icon u-text-custom-color-1">
                                                     <svg className="u-svg-content" viewBox="0 0 512 512" id="svg-18ed">
                                                         <path 
@@ -88,7 +84,7 @@ const Plans = () => {
                                                 </div>
                                                 Relatório de pontuação
                                             </li>
-                                            <li>
+                                            <li data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="3400">
                                                 <div className="u-list-icon u-text-custom-color-1">
                                                     <svg className="u-svg-content" viewBox="0 0 512 512" id="svg-18ed">
                                                         <path 
@@ -126,7 +122,7 @@ const Plans = () => {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="u-align-left u-container-style u-layout-cell u-radius-15 u-size-20-lg u-size-20-xl u-size-30-md u-size-30-sm u-size-30-xs u-white u-layout-cell-5" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Up">
+                                <div className="u-align-left u-container-style u-layout-cell u-radius-15 u-size-20-lg u-size-20-xl u-size-30-md u-size-30-sm u-size-30-xs u-white u-layout-cell-5" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down">
                                     <div className="u-container-layout u-container-layout-5">
                                         <h4 className="u-text u-text-custom-color-2 u-text-default u-text-9">
                                             Plano PRO
@@ -170,7 +166,7 @@ const Plans = () => {
                     </div>
                 </div>
             </section>
-            <section className="u-align-center u-clearfix u-custom-color-7 u-hidden-xs u-section-3" id="sec-32cf">
+            <section className="u-align-center u-clearfix u-custom-color-7 u-section-3" id="sec-32cf">
                 <div className="u-clearfix u-sheet u-sheet-1">
                     <h2 className="u-text u-text-default u-text-1">
                         Comparação dos planos
