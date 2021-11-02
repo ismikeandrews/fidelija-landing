@@ -1,5 +1,4 @@
 import React from 'react';
-import './home.css';
 import { 
     Phone, 
     Web, 
@@ -46,7 +45,7 @@ const Home = () => {
                 </div>
             </section>
             <section className="u-clearfix u-white u-section-2" id="carousel_f4f0">
-                <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+                <div className="u-clearfix u-sheet u-sheet-1">
                     <div className="u-clearfix u-expanded-width u-gutter-16 u-layout-wrap u-layout-wrap-1">
                         <div className="u-layout">
                             <div className="u-layout-row">
@@ -80,16 +79,14 @@ const Home = () => {
                                                 <div className="u-align-left u-container-style u-expanded-width-xs u-group u-palette-5-light-2 u-shape-rectangle u-group-1">
                                                     <div className="u-container-layout u-container-layout-3">
                                                         <h2 className="u-text u-text-5">Fidelize seus clientes</h2>
-                                                        <a href="https://parceiro.fidelija.com.br/register" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 u-btn-1">
-                                                            Comece agora
-                                                        </a>
+                                                        <a href="https://parceiro.fidelija.com.br/register" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 u-btn-1">Comece agora</a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-3">
-                                            <div className="u-container-layout u-valign-bottom u-container-layout-4">
-                                                <img className="u-expanded-width-md u-image u-image-default u-image-1" src={Marketing} alt="marketing" data-image-width="358" data-image-height="406" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
+                                            <div className="u-container-layout u-valign-bottom-xl u-container-layout-4">
+                                                <img className="u-expanded-width-lg u-expanded-width-md u-image u-image-default u-image-1" src={Marketing} alt="marketing" data-image-width="358" data-image-height="406" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
                                             </div>
                                         </div>
                                     </div>
@@ -105,22 +102,11 @@ const Home = () => {
                         <div className="u-layout">
                             <div className="u-layout-row">
                                 <div className="u-container-style u-layout-cell u-size-30-xl u-size-31-lg u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1">
-                                    <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-1">
-                                        <h1 className="u-text u-text-1">
-                                            <span style={{fontSize: '4.5rem'}}>Fidelização<br/>Digital</span>
-                                            <br/>
-                                        </h1>
-                                        <p className="u-custom-font u-font-montserrat u-text u-text-2">
-                                            Plano de fidelidade já existe a muito tempo nos comércios, é um meio muito eficiente de reter clientes.&nbsp; 
-                                            Bastante utilizado por grandes varejistas, e eles tem seu própio aplicativo que faz todo esse gerenciamento. 
-                                            Porém os pequenos comércios ficaram de fora por falta de recursos.&nbsp;
-                                        </p>
-                                        <p className="u-custom-font u-font-montserrat u-text u-text-3">
-                                            Pensando nisso criamos a Fidelijá, o primeiro aplicativo de fidelização de cliente GRATUITO, pensado justamente nos pequenos comércios.
-                                        </p>
-                                        <p className="u-custom-font u-font-montserrat u-text u-text-4">
-                                            Mas comece hoje pois esse benefício é por tempo limitado!
-                                        </p>
+                                    <div className="u-container-layout u-container-layout-1">
+                                        <h1 className="u-text u-text-default-lg u-text-default-xl u-text-1">Fidelização<br/>Digital</h1>
+                                        <p className="u-custom-font u-font-montserrat u-text u-text-2">Plano de fidelidade já existe a muito tempo nos comércios, é um meio muito eficiente de reter clientes.&nbsp; Bastante utilizado por grandes varejistas, e eles tem seu própio aplicativo que faz todo esse gerenciamento. Porém os pequenos comércios ficaram de fora por falta de recursos.&nbsp;</p>
+                                        <p className="u-custom-font u-font-montserrat u-text u-text-3">Pensando nisso criamos a Fidelijá, o primeiro aplicativo de fidelização de cliente GRATUITO, pensado justamente nos pequenos comércios.</p>
+                                        <p className="u-custom-font u-font-montserrat u-text u-text-4">Mas comece hoje pois esse benefício é por tempo limitado!</p>
                                     </div>
                                 </div>
                                 <div className="u-align-left u-container-style u-layout-cell u-size-29-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-2">
