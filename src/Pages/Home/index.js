@@ -17,53 +17,59 @@ import {
     Jessica
 } from '../../Assets';
 
+import './home.css'
+
 const Home = () => {
     return (
         <div>
-            <section className="u-align-left u-clearfix u-gradient u-section-1" id="carousel_87aa">
-                <div className="u-clearfix u-layout-wrap u-layout-wrap-1">
+            <section className="u-align-left u-clearfix u-gradient home-section-1" id="carousel_87aa">
+                <div className="u-clearfix u-layout-wrap home-layout-wrap-1">
                     <div className="u-gutter-0 u-layout">
                         <div className="u-layout-row">
-                            <div className="u-align-left u-container-style u-layout-cell u-size-28-xl u-size-29-lg u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1">
-                                <div className="u-container-layout u-container-layout-1">
-                                    <h1 className="u-align-left u-custom-font u-text u-text-body-alt-color u-text-1"> Aumente as Vendas Hoje Mesmo&nbsp;</h1>
-                                    <div className="u-border-3 u-border-white u-line u-line-horizontal u-line-1"></div>
-                                    <p className="u-custom-font u-font-montserrat u-text u-text-body-alt-color u-text-2"> 
+                            <div className="u-align-left u-container-style u-layout-cell u-size-28-xl u-size-29-lg u-size-60-md u-size-60-sm u-size-60-xs home-layout-cell-1">
+                                <div className="u-container-layout home-container-layout-1">
+                                    <h1 className="u-align-left u-custom-font u-text u-text-body-alt-color home-text-1"> 
+                                        Aumente as Vendas Hoje Mesmo&nbsp;
+                                    </h1>
+                                    <div className="u-border-3 u-border-white u-line u-line-horizontal home-line-1"></div>
+                                    <p className="u-custom-font u-font-montserrat u-text u-text-body-alt-color home-text-2"> 
                                         Tenha seu plano de fidelização de cliente,<br/>e melhor, totalmente gratuito.
                                     </p>
-                                    <a href="https://parceiro.fidelija.com.br/login" className="u-active-palette-2-base u-border-none u-btn u-btn-round u-button-style u-custom-color-4 u-custom-font u-font-raleway u-hover-custom-color-5 u-radius-50 u-text-body-alt-color u-btn-1">entrar</a>
+                                    <a href="https://parceiro.fidelija.com.br/login" className="u-active-palette-2-base u-border-none u-btn u-btn-round u-button-style u-custom-color-4 u-custom-font u-font-raleway u-hover-custom-color-5 u-radius-50 u-text-body-alt-color home-btn-1">entrar</a>
                                 </div>
                             </div>
-                            <div className="u-container-style u-layout-cell u-size-31-lg u-size-32-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-2">
-                                <div className="u-container-layout u-container-layout-2">
-                                    <img className="u-image u-image-default u-image-1" src={Web} alt="webpage" data-image-width="1924" data-image-height="1305" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
-                                    <img className="u-image u-image-default u-image-2" src={Phone} alt="app" data-image-width="200" data-image-height="397" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Up"/>
+                            <div className="u-container-style u-layout-cell u-size-31-lg u-size-32-xl u-size-60-md u-size-60-sm u-size-60-xs home-layout-cell-2">
+                                <div className="u-container-layout home-container-layout-2">
+                                    <img className="u-image u-image-default home-image-1" src={Web} alt="webpage" data-image-width="1924" data-image-height="1305" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
+                                    <img className="u-image u-image-default home-image-2" src={Phone} alt="app" data-image-width="200" data-image-height="397" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Up"/>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section className="u-clearfix u-white u-section-2" id="carousel_f4f0">
-                <div className="u-clearfix u-sheet u-sheet-1">
-                    <div className="u-clearfix u-expanded-width u-gutter-16 u-layout-wrap u-layout-wrap-1">
+            <section className="u-clearfix u-white home-section-2" id="carousel_f4f0">
+                <div className="u-clearfix u-sheet home-sheet-1">
+                    <div className="u-clearfix u-expanded-width u-gutter-16 u-layout-wrap home-layout-wrap-1">
                         <div className="u-layout">
                             <div className="u-layout-row">
                                 <div className="u-size-30">
                                     <div className="u-layout-col">
-                                        <div className="u-container-style u-custom-color-1 u-layout-cell u-shape-rectangle u-size-60 u-layout-cell-1">
-                                            <div className="u-container-layout u-container-layout-1">
-                                                <h1 className="u-text u-text-default-lg u-text-default-xl u-text-1">Você&nbsp;Sabe o que é CAC ?</h1>
-                                                <p className="u-align-left u-custom-font u-font-montserrat u-text u-text-default-lg u-text-default-xl u-text-2">
+                                        <div className="u-container-style u-custom-color-1 u-layout-cell u-shape-rectangle u-size-60 home-layout-cell-1">
+                                            <div className="u-container-layout home-container-layout-1">
+                                                <h1 className="u-text u-text-default-lg u-text-default-xl home-text-1">
+                                                    Você&nbsp;Sabe o que é CAC ?
+                                                </h1>
+                                                <p className="u-align-left u-custom-font u-font-montserrat u-text u-text-default-lg u-text-default-xl home-text-2">
                                                     CAC (Custo de Aquisição de Cliente) é o custo de quanto gastamos para conquistar um novo cliente. 
                                                     E que pode ser gastos em diversas maneiras: Impulsionamento nas redes sociais; Ads nas buscas; Ou anúncios no rádio,&nbsp; jornal ou tv.<br/>
                                                 </p>
-                                                <p className="u-align-left u-custom-font u-font-montserrat u-text u-text-3">
+                                                <p className="u-align-left u-custom-font u-font-montserrat u-text home-text-3">
                                                     Divida o valor gasto pelo número de clientes que uma campanha lhe trouxe, você terá o CAC. 
                                                     Este método de marketing geralmente não é tão eficiente para pequenos comércios, pois estes não disponham de verba  marketing constante. 
                                                     E se for feita de forma esporática, não tem bons resultados.
                                                 </p>
-                                                <p className="u-align-left u-custom-font u-font-montserrat u-text u-text-4">
+                                                <p className="u-align-left u-custom-font u-font-montserrat u-text home-text-4">
                                                     Acreditamos que a melhor maneira de divulgação para pequenos comércios é de relacionamento. 
                                                     Dando benefícios aos clientes já conquistados e fazer com que o retorno dele seja frequente. 
                                                     E nada melhor do que o marketing viral que este cliente satisfeito fará e melhor, gratuitamente.
@@ -74,19 +80,23 @@ const Home = () => {
                                 </div>
                                 <div className="u-size-30">
                                     <div className="u-layout-col">
-                                        <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-                                            <div className="u-container-layout u-container-layout-2">
-                                                <div className="u-align-left u-container-style u-expanded-width-xs u-group u-palette-5-light-2 u-shape-rectangle u-group-1">
-                                                    <div className="u-container-layout u-container-layout-3">
-                                                        <h2 className="u-text u-text-5">Fidelize seus clientes</h2>
-                                                        <a href="https://parceiro.fidelija.com.br/register" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 u-btn-1">Comece agora</a>
+                                        <div className="u-container-style u-layout-cell u-size-30 home-layout-cell-2">
+                                            <div className="u-container-layout home-container-layout-2">
+                                                <div className="u-align-left u-container-style u-expanded-width-xs u-group u-palette-5-light-2 u-shape-rectangle home-group-1">
+                                                    <div className="u-container-layout home-container-layout-3">
+                                                        <h2 className="u-text u-text-5">
+                                                            Fidelize seus clientes
+                                                        </h2>
+                                                        <a href="https://parceiro.fidelija.com.br/register" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 home-btn-1">
+                                                            Comece agora
+                                                        </a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-3">
-                                            <div className="u-container-layout u-valign-bottom-xl u-container-layout-4">
-                                                <img className="u-expanded-width-lg u-expanded-width-md u-image u-image-default u-image-1" src={Marketing} alt="marketing" data-image-width="358" data-image-height="406" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
+                                        <div className="u-container-style u-layout-cell u-size-30 home-layout-cell-3">
+                                            <div className="u-container-layout u-valign-bottom-xl home-container-layout-4">
+                                                <img className="u-expanded-width-lg u-expanded-width-md u-image u-image-default home-image-1" src={Marketing} alt="marketing" data-image-width="358" data-image-height="406" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
                                             </div>
                                         </div>
                                     </div>
@@ -96,26 +106,36 @@ const Home = () => {
                     </div>
                 </div>
             </section>
-            <section className="u-clearfix u-custom-color-1 u-section-3" id="carousel_27c0">
-                <div className="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
-                    <div className="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-layout-wrap u-layout-wrap-1">
+            <section className="u-clearfix u-custom-color-1 home-section-3" id="carousel_27c0">
+                <div className="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl home-sheet-1">
+                    <div className="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-layout-wrap home-layout-wrap-1">
                         <div className="u-layout">
                             <div className="u-layout-row">
-                                <div className="u-container-style u-layout-cell u-size-30-xl u-size-31-lg u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1">
-                                    <div className="u-container-layout u-container-layout-1">
-                                        <h1 className="u-text u-text-default-lg u-text-default-xl u-text-1">Fidelização<br/>Digital</h1>
-                                        <p className="u-custom-font u-font-montserrat u-text u-text-2">Plano de fidelidade já existe a muito tempo nos comércios, é um meio muito eficiente de reter clientes.&nbsp; Bastante utilizado por grandes varejistas, e eles tem seu própio aplicativo que faz todo esse gerenciamento. Porém os pequenos comércios ficaram de fora por falta de recursos.&nbsp;</p>
-                                        <p className="u-custom-font u-font-montserrat u-text u-text-3">Pensando nisso criamos a Fidelijá, o primeiro aplicativo de fidelização de cliente GRATUITO, pensado justamente nos pequenos comércios.</p>
-                                        <p className="u-custom-font u-font-montserrat u-text u-text-4">Mas comece hoje pois esse benefício é por tempo limitado!</p>
+                                <div className="u-container-style u-layout-cell u-size-30-xl u-size-31-lg u-size-60-md u-size-60-sm u-size-60-xs home-layout-cell-1">
+                                    <div className="u-container-layout home-container-layout-1">
+                                        <h1 className="u-text u-text-default-lg u-text-default-xl home-text-1">
+                                            Fidelização<br/>Digital
+                                        </h1>
+                                        <p className="u-custom-font u-font-montserrat u-text home-text-2">
+                                            Plano de fidelidade já existe a muito tempo nos comércios, é um meio muito eficiente de reter clientes.
+                                            &nbsp; Bastante utilizado por grandes varejistas, e eles tem seu própio aplicativo que faz todo esse gerenciamento. 
+                                            Porém os pequenos comércios ficaram de fora por falta de recursos.&nbsp;
+                                        </p>
+                                        <p className="u-custom-font u-font-montserrat u-text home-text-3">
+                                            Pensando nisso criamos a Fidelijá, o primeiro aplicativo de fidelização de cliente GRATUITO, pensado justamente nos pequenos comércios.
+                                        </p>
+                                        <p className="u-custom-font u-font-montserrat u-text home-text-4">
+                                            Mas comece hoje pois esse benefício é por tempo limitado!
+                                        </p>
                                     </div>
                                 </div>
-                                <div className="u-align-left u-container-style u-layout-cell u-size-29-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-2">
-                                    <div className="u-container-layout u-container-layout-2">
-                                        <img className="u-image u-image-default u-preserve-proportions u-image-1" src={Donuz} alt="donuz-logo" data-image-width="709" data-image-height="709" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
-                                        <img className="u-image u-image-default u-image-2" src={Carrefour} alt="carrefour-app" data-image-width="614" data-image-height="577" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
-                                        <img className="u-image u-image-default u-preserve-proportions u-image-3" src={Livelo} alt="livelo-logo" data-image-width="512" data-image-height="512" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Left"/>
-                                        <img className="u-image u-image-default u-image-4" src={Starbucks} alt="starbucks-card" data-image-width="1786" data-image-height="1132" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Up"/>
-                                        <img className="u-image u-image-default u-preserve-proportions u-image-5" src={Extra} alt="club-extra" data-image-width="250" data-image-height="168" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
+                                <div className="u-align-left u-container-style u-layout-cell u-size-29-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs home-layout-cell-2">
+                                    <div className="u-container-layout home-container-layout-2">
+                                        <img className="u-image u-image-default u-preserve-proportions home-image-1" src={Donuz} alt="donuz-logo" data-image-width="709" data-image-height="709" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
+                                        <img className="u-image u-image-default home-image-2" src={Carrefour} alt="carrefour-app" data-image-width="614" data-image-height="577" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
+                                        <img className="u-image u-image-default u-preserve-proportions home-image-3" src={Livelo} alt="livelo-logo" data-image-width="512" data-image-height="512" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Left"/>
+                                        <img className="u-image u-image-default home-image-4" src={Starbucks} alt="starbucks-card" data-image-width="1786" data-image-height="1132" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Up"/>
+                                        <img className="u-image u-image-default u-preserve-proportions home-image-5" src={Extra} alt="club-extra" data-image-width="250" data-image-height="168" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
                                     </div>
                                 </div>
                             </div>
@@ -123,16 +143,16 @@ const Home = () => {
                     </div>
                 </div>
             </section>
-            <section className="u-clearfix u-grey-90 u-section-4" id="carousel_7351">
-                <div className="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
-                    <div className="u-custom-color-1 u-shape u-shape-rectangle u-shape-1"></div>
-                    <div className="u-gallery u-layout-grid u-lightbox u-no-transition u-show-text-on-hover u-gallery-1">
-                        <div className="u-gallery-inner u-gallery-inner-1">
+            <section className="u-clearfix u-grey-90 home-section-4" id="carousel_7351">
+                <div className="u-clearfix u-sheet u-valign-middle-xs home-sheet-1">
+                    <div className="u-custom-color-1 u-shape u-shape-rectangle home-shape-1"></div>
+                    <div className="u-gallery home-layout-grid u-lightbox u-no-transition u-show-text-on-hover home-gallery-1">
+                        <div className="home-gallery-inner home-gallery-inner-1">
                             <div className="u-effect-zoom u-gallery-item">
                                 <div className="u-back-slide" data-image-width="1600" data-image-height="1600">
                                     <img className="u-back-image u-expanded" src={Pizza} alt="pizza"/>
                                 </div>
-                                <div className="u-over-slide u-shading u-over-slide-1">
+                                <div className="u-over-slide u-shading home-over-slide-1">
                                     <h3 className="u-gallery-heading"></h3>
                                     <p className="u-gallery-text"></p>
                                 </div>
@@ -141,7 +161,7 @@ const Home = () => {
                                 <div className="u-back-slide" data-image-width="2228" data-image-height="2228">
                                     <img className="u-back-image u-expanded" src={Barber} alt="barber"/>
                                 </div>
-                                <div className="u-over-slide u-shading u-over-slide-2">
+                                <div className="u-over-slide u-shading home-over-slide-2">
                                     <h3 className="u-gallery-heading"></h3>
                                     <p className="u-gallery-text"></p>
                                 </div>
@@ -150,7 +170,7 @@ const Home = () => {
                                 <div className="u-back-slide" data-image-width="1600" data-image-height="1600">
                                     <img className="u-back-image u-expanded" src={Barista} alt="Barista"/>
                                 </div>
-                                <div className="u-over-slide u-shading u-over-slide-3">
+                                <div className="u-over-slide u-shading home-over-slide-3">
                                     <h3 className="u-gallery-heading"></h3>
                                     <p className="u-gallery-text"></p>
                                 </div>
@@ -159,7 +179,7 @@ const Home = () => {
                                 <div className="u-back-slide" data-image-width="1600" data-image-height="1600">
                                     <img className="u-back-image u-expanded" src={Shopping} alt="shopping"/>
                                 </div>
-                                <div className="u-over-slide u-shading u-over-slide-4">
+                                <div className="u-over-slide u-shading home-over-slide-4">
                                     <h3 className="u-gallery-heading"></h3>
                                     <p className="u-gallery-text"></p>
                                 </div>
@@ -168,7 +188,7 @@ const Home = () => {
                                 <div className="u-back-slide" data-image-width="1600" data-image-height="1600">
                                     <img className="u-back-image u-expanded" src={Restaurant} alt="restaurant"/>
                                 </div>
-                                <div className="u-over-slide u-shading u-over-slide-5">
+                                <div className="u-over-slide u-shading home-over-slide-5">
                                     <h3 className="u-gallery-heading"></h3>
                                     <p className="u-gallery-text"></p>
                                 </div>
@@ -177,40 +197,41 @@ const Home = () => {
                                 <div className="u-back-slide" data-image-width="1600" data-image-height="1592">
                                     <img className="u-back-image u-expanded" src={Petshop}/>
                                 </div>
-                                <div className="u-over-slide u-shading u-over-slide-6">
+                                <div className="u-over-slide u-shading home-over-slide-6">
                                     <h3 className="u-gallery-heading"></h3>
                                     <p className="u-gallery-text"></p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className="u-container-style u-expanded-width-xs u-group u-white u-group-1">
-                        <div className="u-container-layout u-valign-bottom u-container-layout-1">
-                            <h2 className="u-text u-text-1">
+                    <div className="u-container-style u-expanded-width-xs u-group u-white home-group-1">
+                        <div className="u-container-layout u-valign-bottom home-container-layout-1">
+                            <h2 className="u-text home-text-1">
                                 Todas as lojas<br/>em um único Aplicativo
                             </h2>
-                            <p className="u-text u-text-2">
-                                A Fidelijá uma plataforma de fidelização de clientes, onde cada estabelecimento tem sua conta e o usuario pode acumular pontos e resgatar prêmios, tudo em um único aplicativo.<br/><br/>
+                            <p className="u-text home-text-2">
+                                A Fidelijá uma plataforma de fidelização de clientes, onde cada estabelecimento tem sua conta e o usuário pode acumular pontos e resgatar prêmios, 
+                                tudo em um único aplicativo.<br/><br/>
                             </p>
-                            <p className="u-text u-text-3">
+                            <p className="u-text home-text-3">
                                 Bem vindo a era digital e chega de cartão de papel.
                             </p>
-                            <a href="https://parceiro.fidelija.com.br/register" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-1">
+                            <a href="https://parceiro.fidelija.com.br/register" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white home-btn-1">
                                 Comece agora
                             </a>
                         </div>
                     </div>
                 </div>
             </section>
-            <section className="u-align-center u-clearfix u-section-5" id="sec-077e">
-                <div className="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                    <h2 className="u-text u-text-default u-text-1">Funcionalidades</h2>
-                    <p className="u-text u-text-default u-text-2">Entenda um pouco mais sobre a Fidelijá</p>
-                    <div className="u-expanded-width u-list u-list-1">
-                        <div className="u-repeater u-repeater-1">
+            <section className="u-align-center u-clearfix home-section-5" id="sec-077e">
+                <div className="u-clearfix u-sheet u-valign-middle home-sheet-1">
+                    <h2 className="u-text u-text-default home-text-1">Funcionalidades</h2>
+                    <p className="u-text u-text-default home-text-2">Entenda um pouco mais sobre a Fidelijá</p>
+                    <div className="u-expanded-width u-list home-list-1">
+                        <div className="u-repeater home-repeater-1">
                             <div className="u-container-style u-list-item u-repeater-item">
-                                <div className="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 u-icon-1">
+                                <div className="u-container-layout u-similar-container u-valign-top home-container-layout-1">
+                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 home-icon-1">
                                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 54.953 54.953">
                                             <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-2669"></use>
                                         </svg>
@@ -247,17 +268,17 @@ const Home = () => {
                                             </g>
                                         </svg>
                                     </span>
-                                    <div className="u-container-style u-group u-group-1">
-                                        <div className="u-container-layout u-valign-top u-container-layout-2">
-                                            <h5 className="u-text u-text-3">Painel Administrativo </h5>
-                                            <p className="u-text u-text-4">Controle total das pontuações e resgates. Inserção de prêmios e gerenciamento de usuários.</p>
+                                    <div className="u-container-style u-group home-group-1">
+                                        <div className="u-container-layout u-valign-top home-container-layout-2">
+                                            <h5 className="u-text home-text-3">Painel Administrativo </h5>
+                                            <p className="u-text home-text-4">Controle total das pontuações e resgates. Inserção de prêmios e gerenciamento de usuários.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div className="u-container-style u-list-item u-repeater-item">
-                                <div className="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 u-icon-2">
+                                <div className="u-container-layout u-similar-container u-valign-top home-container-layout-3">
+                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 home-icon-2">
                                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 60.062 60.062">
                                             <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-7d1d"></use>
                                         </svg>
@@ -284,17 +305,17 @@ const Home = () => {
                                             l-2.333-1.517l30.154-22.172L44.559,47.504z"></path>
                                         </svg>
                                     </span>
-                                    <div className="u-container-style u-group u-video-cover u-group-2">
-                                        <div className="u-container-layout u-valign-top u-container-layout-4">
-                                            <h5 className="u-text u-text-default u-text-5">Canal direto</h5>
-                                            <p className="u-text u-text-6">Através das notificações, o estabelecimento pode se comunicar com o cliente sobre novas ofertas.</p>
+                                    <div className="u-container-style u-group u-video-cover home-group-2">
+                                        <div className="u-container-layout u-valign-top home-container-layout-4">
+                                            <h5 className="u-text u-text-default home-text-5">Canal direto</h5>
+                                            <p className="u-text home-text-6">Através das notificações, o estabelecimento pode se comunicar com o cliente sobre novas ofertas.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div className="u-container-style u-list-item u-repeater-item">
-                                <div className="u-container-layout u-similar-container u-valign-top u-container-layout-5">
-                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 u-icon-3">
+                                <div className="u-container-layout u-similar-container u-valign-top home-container-layout-5">
+                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 home-icon-3">
                                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 60 60">
                                             <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-9483"></use>
                                         </svg>
@@ -402,10 +423,10 @@ const Home = () => {
                                             C57.999,28.557,56.945,29.289,55,30.019z"></path>
                                         </svg>
                                     </span>
-                                    <div className="u-container-style u-group u-video-cover u-group-3">
-                                        <div className="u-container-layout u-valign-top u-container-layout-6">
-                                            <h5 className="u-text u-text-default u-text-7">Pontuação Individual</h5>
-                                            <p className="u-text u-text-8">
+                                    <div className="u-container-style u-group u-video-cover home-group-3">
+                                        <div className="u-container-layout u-valign-top home-container-layout-6">
+                                            <h5 className="u-text u-text-default home-text-7">Pontuação Individual</h5>
+                                            <p className="u-text home-text-8">
                                                 Cada estabelecimento pontua&nbsp; seus clientes individualmente, e é mostrado nos relatórios diário e mensal.
                                             </p>
                                         </div>
@@ -413,8 +434,8 @@ const Home = () => {
                                 </div>
                             </div>
                             <div className="u-container-style u-list-item u-repeater-item">
-                                <div className="u-container-layout u-similar-container u-valign-top u-container-layout-7">
-                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 u-icon-4">
+                                <div className="u-container-layout u-similar-container u-valign-top home-container-layout-7">
+                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 home-icon-4">
                                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 201.387 201.387">
                                             <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-296c"></use>
                                         </svg>
@@ -499,10 +520,10 @@ const Home = () => {
                                             </g>
                                         </svg>
                                     </span>
-                                    <div className="u-container-style u-group u-video-cover u-group-4">
-                                        <div className="u-container-layout u-valign-top u-container-layout-8">
-                                            <h5 className="u-text u-text-default u-text-9">Resgaste de prêmios</h5>
-                                            <p className="u-text u-text-10">
+                                    <div className="u-container-style u-group u-video-cover home-group-4">
+                                        <div className="u-container-layout u-valign-top home-container-layout-8">
+                                            <h5 className="u-text u-text-default home-text-9">Resgaste de prêmios</h5>
+                                            <p className="u-text home-text-10">
                                                 O cliente vai resgatar prêmios apenas onde acumulou os pontos. Mostrado nos relatórios diário e mensal.
                                             </p>
                                         </div>
@@ -510,8 +531,8 @@ const Home = () => {
                                 </div>
                             </div>
                             <div className="u-container-style u-list-item u-repeater-item">
-                                <div className="u-container-layout u-similar-container u-valign-top u-container-layout-9">
-                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 u-icon-5">
+                                <div className="u-container-layout u-similar-container u-valign-top home-container-layout-9">
+                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 home-icon-5">
                                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 486.603 486.603">
                                             <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-ed83"></use>
                                         </svg>
@@ -546,10 +567,10 @@ const Home = () => {
                                             </g>
                                         </svg>
                                     </span>
-                                    <div className="u-container-style u-group u-video-cover u-group-5">
-                                        <div className="u-container-layout u-valign-top u-container-layout-10">
-                                            <h5 className="u-text u-text-default u-text-11">CASHBACK</h5>
-                                            <p className="u-text u-text-12">
+                                    <div className="u-container-style u-group u-video-cover home-group-5">
+                                        <div className="u-container-layout u-valign-top home-container-layout-10">
+                                            <h5 className="u-text u-text-default home-text-11">CASHBACK</h5>
+                                            <p className="u-text home-text-12">
                                                 Estorne parte do gasto dos clientes abatendo a conta é uma atitude que está em alta, todo mundo gosta disso.
                                             </p>
                                         </div>
@@ -557,8 +578,8 @@ const Home = () => {
                                 </div>
                             </div>
                             <div className="u-container-style u-list-item u-repeater-item">
-                                <div className="u-container-layout u-similar-container u-valign-top u-container-layout-11">
-                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 u-icon-6">
+                                <div className="u-container-layout u-similar-container u-valign-top home-container-layout-11">
+                                    <span className="u-custom-color-1 u-icon u-icon-circle u-spacing-15 home-icon-6">
                                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="-14 0 512 512">
                                             <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-6d03"></use>
                                         </svg>
@@ -599,10 +620,10 @@ const Home = () => {
                                             4.804687 8.300782 4.804687 15.003907zm0 0"></path>
                                         </svg>
                                     </span>
-                                    <div className="u-container-style u-group u-video-cover u-group-6">
-                                        <div className="u-container-layout u-valign-top u-container-layout-12">
-                                            <h5 className="u-text u-text-default u-text-13">Aplicativo</h5>
-                                            <p className="u-text u-text-14">
+                                    <div className="u-container-style u-group u-video-cover home-group-6">
+                                        <div className="u-container-layout u-valign-top home-container-layout-12">
+                                            <h5 className="u-text u-text-default home-text-13">Aplicativo</h5>
+                                            <p className="u-text home-text-14">
                                                 Poucas soluções semelhantes no mercado disponha do aplicativo onde o cliente tem como saber quais são os prêmios e suas pontuações.
                                             </p>
                                         </div>
@@ -613,19 +634,19 @@ const Home = () => {
                     </div>
                 </div>
             </section>
-            <section className="u-clearfix u-grey-5 u-valign-middle-lg u-valign-middle-xl u-section-6" id="carousel_d230">
-                <div className="u-custom-color-1 u-expanded-height-lg u-expanded-height-md u-expanded-height-xl u-expanded-width-sm u-expanded-width-xs u-shape u-shape-rectangle u-shape-1"></div>
-                <div className="u-clearfix u-layout-wrap u-layout-wrap-1">
+            <section className="u-clearfix u-grey-5 u-valign-middle-lg u-valign-middle-xl home-section-6" id="carousel_d230">
+                <div className="u-custom-color-1 u-expanded-height-lg u-expanded-height-md u-expanded-height-xl u-expanded-width-sm u-expanded-width-xs u-shape u-shape-rectangle home-shape-1"></div>
+                <div className="u-clearfix u-layout-wrap home-layout-wrap-1">
                     <div className="u-gutter-0 u-layout">
                         <div className="u-layout-row">
-                            <div className="u-align-center u-container-style u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-1">
-                                <div className="u-container-layout u-valign-middle-lg u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs u-container-layout-1">
-                                    <img className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-5 u-image-1" src={Jessica} alt="jessica" data-image-width="1086" data-image-height="724" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
+                            <div className="u-align-center u-container-style u-layout-cell u-shape-rectangle u-size-30 home-layout-cell-1">
+                                <div className="u-container-layout u-valign-middle-lg u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs home-container-layout-1">
+                                    <img className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-5 home-image-1" src={Jessica} alt="jessica" data-image-width="1086" data-image-height="724" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down"/>
                                 </div>
                             </div>
-                            <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-                                <div className="u-container-layout u-container-layout-2">
-                                    <span className="u-icon u-icon-circle u-text-grey-25 u-icon-1">
+                            <div className="u-container-style u-layout-cell u-size-30 home-layout-cell-2">
+                                <div className="u-container-layout home-container-layout-2">
+                                    <span className="u-icon u-icon-circle u-text-grey-25 home-icon-1">
                                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 95.333 95.332">
                                             <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-405e"></use>
                                         </svg>
@@ -648,39 +669,39 @@ const Home = () => {
                                             </g>
                                         </svg>
                                     </span>
-                                    <h2 className="u-custom-font u-font-raleway u-text u-text-1">Resultado imediato!</h2>
-                                    <p className="u-text u-text-2"> 
+                                    <h2 className="u-custom-font u-font-raleway u-text home-text-1">Resultado imediato!</h2>
+                                    <p className="u-text home-text-2"> 
                                         Fidelijá me ajudou a alavancar as vendas em menos de 2 meses, agora os clientes retornam não apenas por conta do preço.
                                     </p>
-                                    <h5 className="u-text u-text-default u-text-3">Jessica Soares</h5>
-                                    <h6 className="u-text u-text-default u-text-4">Proprietária da GSK Print</h6>
+                                    <h5 className="u-text u-text-default home-text-3">Jessica Soares</h5>
+                                    <h6 className="u-text u-text-default home-text-4">Proprietária da GSK Print</h6>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section className="u-clearfix u-image u-section-7" id="carousel_1927" data-image-width="1600" data-image-height="1067">
-                <div className="u-clearfix u-sheet u-sheet-1">
-                    <div className="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+            <section className="u-clearfix u-image home-section-7" id="carousel_1927" data-image-width="1600" data-image-height="1067">
+                <div className="u-clearfix u-sheet home-sheet-1">
+                    <div className="u-clearfix u-expanded-width u-layout-wrap home-layout-wrap-1">
                         <div className="u-layout">
                             <div className="u-layout-row">
-                                <div className="u-align-left u-container-style u-image u-layout-cell u-size-30 u-image-1" data-image-width="1600" data-image-height="1600">
-                                    <div className="u-container-layout u-container-layout-1"></div>
+                                <div className="u-align-left u-container-style u-image u-layout-cell u-size-30 home-image-1" data-image-width="1600" data-image-height="1600">
+                                    <div className="u-container-layout home-container-layout-1"></div>
                                 </div>
-                                <div className="u-container-style u-grey-5 u-layout-cell u-size-30 u-layout-cell-2">
-                                    <div className="u-container-layout u-container-layout-2">
-                                        <h2 className="u-align-left u-text u-text-1">Vamos Alavancar as Vendas ?</h2>
-                                        <p className="u-custom-font u-font-montserrat u-text u-text-2">
+                                <div className="u-container-style u-grey-5 u-layout-cell u-size-30 home-layout-cell-2">
+                                    <div className="u-container-layout home-container-layout-2">
+                                        <h2 className="u-align-left u-text home-text-1">Vamos Alavancar as Vendas ?</h2>
+                                        <p className="u-custom-font u-font-montserrat u-text home-text-2">
                                             Sabemos que não é fácil ser empreendor, garra e a coragem é o que não nos falta. 
                                             Estaremos ao seu lado nessa joranada fantástica, basta querer.
                                         </p>
-                                        <a href="https://parceiro.fidelija.com.br" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 u-btn-1">
+                                        <a href="https://parceiro.fidelija.com.br" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 home-btn-1">
                                             Comece agora
                                         </a>
-                                        <div className="u-social-icons u-spacing-30 u-social-icons-1">
+                                        <div className="u-social-icons u-spacing-30 home-social-icons-1">
                                             <a className="u-social-url" target="_blank" href="">
-                                                <span className="u-icon u-icon-circle u-social-facebook u-social-icon u-icon-1">
+                                                <span className="u-icon u-icon-circle u-social-facebook u-social-icon home-icon-1">
                                                     <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112">
                                                         <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-b57b"></use>
                                                     </svg>
@@ -690,7 +711,7 @@ const Home = () => {
                                                 </span>
                                             </a>
                                             <a className="u-social-url" target="_blank" href="">
-                                                <span className="u-icon u-icon-circle u-social-icon u-social-instagram u-icon-2">
+                                                <span className="u-icon u-icon-circle u-social-icon u-social-instagram home-icon-2">
                                                     <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112">
                                                         <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-5333"></use>
                                                     </svg>
