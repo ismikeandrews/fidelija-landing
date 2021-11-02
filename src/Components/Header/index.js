@@ -47,7 +47,7 @@ const Header = () => {
                                 </Link>
                             </li>
                             <li className="u-nav-item">
-                                <Link className="u-border-2 u-border-active-custom-color-1 u-border-hover-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-grey-90" to="/usage" style={{padding: "10px 0px"}}>
+                                <Link className="u-border-2 u-border-active-custom-color-1 u-border-hover-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-grey-90" to="/how-to" style={{padding: "10px 0px"}}>
                                     Como funciona
                                 </Link>
                             </li>
@@ -74,7 +74,7 @@ const Header = () => {
                                         </Link>
                                     </li>
                                     <li className="u-nav-item">
-                                        <Link className="u-button-style u-nav-link" to="/usage" style={{padding: '10px 0px'}}>
+                                        <Link className="u-button-style u-nav-link" to="/how-to" style={{padding: '10px 0px'}}>
                                             Como funciona
                                         </Link>
                                     </li>
