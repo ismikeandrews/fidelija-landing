@@ -14,7 +14,8 @@ import {
     Restaurant, 
     Shopping, 
     Petshop,
-    Jessica
+    Jessica,
+    Socials
 } from '../../Assets';
 
 import './home.css'
@@ -96,7 +97,7 @@ const Home = () => {
                                         </div>
                                         <div className="u-container-style u-layout-cell u-size-30 home-layout-cell-3">
                                             <div className="u-container-layout u-valign-bottom-xl home-container-layout-4">
-                                                <img className="u-expanded-width-lg u-expanded-width-md u-image u-image-default home-image-1" src={Marketing} alt="marketing" data-image-width="358" data-image-height="406" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
+                                                <img className="u-expanded-width-lg u-expanded-width-md u-image u-image-default home-image-1" src={Socials} alt="marketing" data-image-width="358" data-image-height="406" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Right"/>
                                             </div>
                                         </div>
                                     </div>

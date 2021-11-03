@@ -17,4 +17,5 @@ export { default as Usage } from './Images/usage.png';
 export { default as Steve } from './Images/steve.png';
 export { default as Qrcode } from './Images/qrcode.jpg';
 export { default as Payment } from './Images/payment.jpg';
+export { default as Socials } from './Images/socials.jpg';
 export { default as Jessica } from './Images/jessica.JPG';

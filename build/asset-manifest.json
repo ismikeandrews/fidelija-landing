@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c9964a54.chunk.css",
-    "main.js": "/static/js/main.bd70bac0.chunk.js",
-    "main.js.map": "/static/js/main.bd70bac0.chunk.js.map",
+    "main.js": "/static/js/main.949e8aba.chunk.js",
+    "main.js.map": "/static/js/main.949e8aba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c61bef00.js",
     "runtime-main.js.map": "/static/js/runtime-main.c61bef00.js.map",
     "static/js/2.fb2515fd.chunk.js": "/static/js/2.fb2515fd.chunk.js",
@@ -27,6 +27,7 @@
     "static/media/qrcode.6082a4d5.jpg": "/static/media/qrcode.6082a4d5.jpg",
     "static/media/restaurant.d8a34191.jpg": "/static/media/restaurant.d8a34191.jpg",
     "static/media/shopping.a240b7c4.jpg": "/static/media/shopping.a240b7c4.jpg",
+    "static/media/socials.54cad75c.jpg": "/static/media/socials.54cad75c.jpg",
     "static/media/starbucks.64845585.png": "/static/media/starbucks.64845585.png",
     "static/media/usage.css": "/static/media/steve.7a9802b1.png",
     "static/media/usage.c76c1513.png": "/static/media/usage.c76c1513.png",
@@ -36,6 +37,6 @@
     "static/js/runtime-main.c61bef00.js",
     "static/js/2.fb2515fd.chunk.js",
     "static/css/main.c9964a54.chunk.css",
-    "static/js/main.bd70bac0.chunk.js"
+    "static/js/main.949e8aba.chunk.js"
   ]
 }
