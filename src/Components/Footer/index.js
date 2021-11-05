@@ -39,7 +39,7 @@ const Footer = () => {
                 </div>
                 <div className="u-border-1 u-border-white u-expanded-width u-line u-line-horizontal u-opacity u-opacity-50 u-line-1"></div>
                 <p className="u-align-center u-custom-font u-font-montserrat u-text u-text-1">
-                    <span style={{fontSize: "0.75rem"}}>© 2021 Fidelijá. All r​ights reserved.</span>
+                    <span style={{fontSize: "0.75rem"}}>© 2021 Fidelijá. All r​ights reserved. <Link to="/privacidade" style={{textDecoration: 'underline'}}>Política de privacidade</Link></span>
                     <br/>
                 </p>
             </div>

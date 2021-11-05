@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9964a54.chunk.css",
-    "main.js": "/static/js/main.ea8ed17c.chunk.js",
-    "main.js.map": "/static/js/main.ea8ed17c.chunk.js.map",
+    "main.css": "/static/css/main.95ab3b28.chunk.css",
+    "main.js": "/static/js/main.d215c517.chunk.js",
+    "main.js.map": "/static/js/main.d215c517.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c61bef00.js",
     "runtime-main.js.map": "/static/js/runtime-main.c61bef00.js.map",
     "static/js/2.bd94eec6.chunk.js": "/static/js/2.bd94eec6.chunk.js",
     "static/js/2.bd94eec6.chunk.js.map": "/static/js/2.bd94eec6.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c9964a54.chunk.css.map": "/static/css/main.c9964a54.chunk.css.map",
+    "static/css/main.95ab3b28.chunk.css.map": "/static/css/main.95ab3b28.chunk.css.map",
     "static/js/2.bd94eec6.chunk.js.LICENSE.txt": "/static/js/2.bd94eec6.chunk.js.LICENSE.txt",
     "static/media/barber.8f9857e1.jpg": "/static/media/barber.8f9857e1.jpg",
     "static/media/barista.f5a4804e.jpg": "/static/media/barista.f5a4804e.jpg",
     "static/media/carrefour.26e2a6df.png": "/static/media/carrefour.26e2a6df.png",
     "static/media/home.css": "/static/media/rocket.b44cf260.jpg",
+    "static/media/privacy.css": "/static/media/document.93d487e5.jpg",
     "static/media/donuz.cfd1cd74.png": "/static/media/donuz.cfd1cd74.png",
     "static/media/fidelija-logo.903316ba.png": "/static/media/fidelija-logo.903316ba.png",
     "static/media/jessica.b679f197.JPG": "/static/media/jessica.b679f197.JPG",
@@ -36,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.c61bef00.js",
     "static/js/2.bd94eec6.chunk.js",
-    "static/css/main.c9964a54.chunk.css",
-    "static/js/main.ea8ed17c.chunk.js"
+    "static/css/main.95ab3b28.chunk.css",
+    "static/js/main.d215c517.chunk.js"
   ]
 }
