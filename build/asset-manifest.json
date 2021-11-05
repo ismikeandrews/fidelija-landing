@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.c9964a54.chunk.css",
-    "main.js": "/static/js/main.949e8aba.chunk.js",
-    "main.js.map": "/static/js/main.949e8aba.chunk.js.map",
+    "main.js": "/static/js/main.ea8ed17c.chunk.js",
+    "main.js.map": "/static/js/main.ea8ed17c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c61bef00.js",
     "runtime-main.js.map": "/static/js/runtime-main.c61bef00.js.map",
-    "static/js/2.fb2515fd.chunk.js": "/static/js/2.fb2515fd.chunk.js",
-    "static/js/2.fb2515fd.chunk.js.map": "/static/js/2.fb2515fd.chunk.js.map",
+    "static/js/2.bd94eec6.chunk.js": "/static/js/2.bd94eec6.chunk.js",
+    "static/js/2.bd94eec6.chunk.js.map": "/static/js/2.bd94eec6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.c9964a54.chunk.css.map": "/static/css/main.c9964a54.chunk.css.map",
-    "static/js/2.fb2515fd.chunk.js.LICENSE.txt": "/static/js/2.fb2515fd.chunk.js.LICENSE.txt",
+    "static/js/2.bd94eec6.chunk.js.LICENSE.txt": "/static/js/2.bd94eec6.chunk.js.LICENSE.txt",
     "static/media/barber.8f9857e1.jpg": "/static/media/barber.8f9857e1.jpg",
     "static/media/barista.f5a4804e.jpg": "/static/media/barista.f5a4804e.jpg",
     "static/media/carrefour.26e2a6df.png": "/static/media/carrefour.26e2a6df.png",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c61bef00.js",
-    "static/js/2.fb2515fd.chunk.js",
+    "static/js/2.bd94eec6.chunk.js",
     "static/css/main.c9964a54.chunk.css",
-    "static/js/main.949e8aba.chunk.js"
+    "static/js/main.ea8ed17c.chunk.js"
   ]
 }
