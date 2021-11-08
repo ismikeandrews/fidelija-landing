@@ -2,7 +2,6 @@ import React from 'react';
 import { 
     Phone, 
     Web, 
-    Marketing, 
     Carrefour, 
     Livelo, 
     Donuz, 
@@ -208,11 +207,11 @@ const Home = () => {
                     <div className="u-container-style u-expanded-width-xs u-group u-white home-group-1">
                         <div className="u-container-layout u-valign-bottom home-container-layout-1">
                             <h2 className="u-text home-text-1">
-                                Todas as lojas<br/>em um único Aplicativo
+                                Todas as lojas em um único Aplicativo
                             </h2>
                             <p className="u-text home-text-2">
                                 A Fidelijá uma plataforma de fidelização de clientes, onde cada estabelecimento tem sua conta e o usuário pode acumular pontos e resgatar prêmios, 
-                                tudo em um único aplicativo.<br/><br/>
+                                tudo em um só lugar.<br/><br/>
                             </p>
                             <p className="u-text home-text-3">
                                 Bem vindo a era digital e chega de cartão de papel.

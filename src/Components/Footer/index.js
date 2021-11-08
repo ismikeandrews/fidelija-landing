@@ -9,7 +9,7 @@ const Footer = () => {
                     <img src={Logo} alt="Fidelijá" className="u-logo-image u-logo-image-1"/>
                 </Link>
                 <div className="u-align-left u-social-icons u-spacing-10 u-social-icons-1">
-                    <a className="u-social-url" title="facebook" target="_blank" href="">
+                    <a className="u-social-url" title="facebook" target="_blank" rel="noreferrer" href="https://facebook.com">
                         <span className="u-icon u-social-facebook u-social-icon u-icon-1">
                             <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112">
                                 <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-36da"></use>
@@ -20,7 +20,7 @@ const Footer = () => {
                             </svg>
                         </span>
                     </a>
-                    <a className="u-social-url" title="instagram" target="_blank" href="">
+                    <a className="u-social-url" title="instagram" target="_blank" rel="noreferrer" href="https://instagram.com">
                         <span className="u-icon u-social-icon u-social-instagram u-icon-2">
                             <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112">
                                 <use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-4fa5"></use>
