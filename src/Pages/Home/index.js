@@ -67,7 +67,7 @@ const Home = () => {
                                                 <p className="u-align-left u-custom-font u-font-montserrat u-text home-text-3">
                                                     Divida o valor gasto pelo número de clientes que uma campanha lhe trouxe, você terá o CAC. 
                                                     Este método de marketing geralmente não é tão eficiente para pequenos comércios, pois estes não disponham de verba  marketing constante. 
-                                                    E se for feita de forma esporática, não tem bons resultados.
+                                                    E se for feita de forma esporádica, não tem bons resultados.
                                                 </p>
                                                 <p className="u-align-left u-custom-font u-font-montserrat u-text home-text-4">
                                                     Acreditamos que a melhor maneira de divulgação para pequenos comércios é de relacionamento. 
@@ -125,7 +125,7 @@ const Home = () => {
                                             Pensando nisso criamos a Fidelijá, o primeiro aplicativo de fidelização de cliente GRATUITO, pensado justamente nos pequenos comércios.
                                         </p>
                                         <p className="u-custom-font u-font-montserrat u-text home-text-4">
-                                            Mas comece hoje pois esse benefício é por tempo limitado!
+                                            Comece hoje pois esse benefício é por tempo limitado!
                                         </p>
                                     </div>
                                 </div>
