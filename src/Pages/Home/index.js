@@ -694,7 +694,7 @@ const Home = () => {
                                         <h2 className="u-align-left u-text home-text-1">Vamos Alavancar as Vendas ?</h2>
                                         <p className="u-custom-font u-font-montserrat u-text home-text-2">
                                             Sabemos que não é fácil ser empreendor, garra e a coragem é o que não nos falta. 
-                                            Estaremos ao seu lado nessa joranada fantástica, basta querer.
+                                            Estaremos ao seu lado nessa jornada fantástica, basta querer.
                                         </p>
                                         <a href="https://parceiro.fidelija.com.br/" className="u-active-custom-color-3 u-border-none u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-2 u-radius-50 home-btn-1">
                                             Comece agora
