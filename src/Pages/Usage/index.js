@@ -32,7 +32,7 @@ const Plans = () => {
             <section className="u-clearfix u-white usage-section-2" id="carousel_6a01">
                 <div className="u-clearfix u-sheet u-valign-middle usage-sheet-1">
                     <h2 className="u-align-center u-heading-font u-text usage-text-1">
-                        Sai na frente de seus concorrentes<br/>
+                        Saia na frente de seus concorrentes<br/>
                     </h2>
                     <div className="u-expanded-width u-list usage-list-1">
                         <div className="u-repeater usage-repeater-1">
@@ -168,7 +168,7 @@ const Plans = () => {
                                             </h2>
                                             <p style={{textAlign: "left"}}>
                                                 <span style={{lineHeight: "2.0"}}>
-                                                    A função básica que a plataforma oferece, é a pontuação para os clientes toda vez que ele gasta em seu estabelecimento, 
+                                                    A função básica que a plataforma oferece, é a pontuação para os clientes toda vez que ele consome em seu estabelecimento, 
                                                     e depois os pontos acumulados podem ser revertidos em prêmios que você mesmo vai determinar. Recomendamos que os prêmios 
                                                     sejam algum produto encalhado ou perto do prazo de vencimento, desta forma conseguimos dar um destino digino a estes produtos 
                                                     a quem precisa, e ajudar a limpar seu estoque.
@@ -219,7 +219,7 @@ const Plans = () => {
                                                 <span style={{lineHeight: "2.0"}}>
                                                     Já deu vontade de querer avisar as novidades e promoções para seus clientes? Aderindo ao seu plano de fidelização, 
                                                     automaticamente cria-se um link onde poderá notifica-los, isso não é uma maravilha? Quando notificamos os clientes 
-                                                    não esperamos uma resposta, apenas que recebem a mensagem. Esta tática é bastante usada por outros aplicativos. 
+                                                    não esperamos uma resposta, apenas que recebam a mensagem. Esta tática é bastante usada por outros aplicativos. 
                                                     Quantas notificações você já recebeu hoje? &nbsp;
                                                 </span>
                                             </p>
@@ -230,7 +230,7 @@ const Plans = () => {
                                                 <span style={{lineHeight: "2.0"}}>
                                                     O aplicativo Fidelijá é uma forma de marketing place onde o cliente final acumula os pontos de diversos 
                                                     &nbsp;estabelecimentos, e através dele pode ser verificado as pontuações e os prêmios que cada estabelecimento 
-                                                    oferece. Não exigimos nem um investimento inicial em equipamentos, todo gerenciamento pode ser feito usando 
+                                                    oferece. Não exigimos nenhum investimento inicial em equipamentos, todo gerenciamento pode ser feito usando 
                                                     apenas um computador e smartphone, para pontuar e invalidar os cupons de forma simples, sempre através de QR code 
                                                     para evitar erros humanos e acelerar o processo.
                                                 </span>

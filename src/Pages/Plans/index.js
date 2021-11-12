@@ -46,7 +46,7 @@ const Plans = () => {
                                                         fill="currentColor"></path>
                                                     </svg>
                                                 </div>
-                                                Clientes ilimitado
+                                                Clientes ilimitados
                                             </li>
                                             <li data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="1900">
                                                 <div className="u-list-icon u-text-custom-color-1">
@@ -486,7 +486,7 @@ const Plans = () => {
                                         <p>
                                             <span style={{fontSize: "1.125rem"}}>
                                                 Sim, a qualquer momento. Pórem todo critério civil em relação ao código do consumidor é de sua e exclusiva responsabilidade. 
-                                                A Fidelijá apenas oferece um meio do estabelecimento administrar os pontos e o resgate dos prêmios
+                                                A Fidelijá apenas oferece um meio do estabelecimento administrar os pontos e o resgate dos prêmios.
                                             </span>
                                         </p>
                                     </div>
