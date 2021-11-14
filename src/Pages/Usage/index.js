@@ -169,9 +169,12 @@ const Plans = () => {
                                             <p style={{textAlign: "left"}}>
                                                 <span style={{lineHeight: "2.0"}}>
                                                     A função básica que a plataforma oferece, é a pontuação para os clientes toda vez que ele consome em seu estabelecimento, 
-                                                    e depois os pontos acumulados podem ser revertidos em prêmios que você mesmo vai determinar. Recomendamos que os prêmios 
-                                                    sejam algum produto encalhado ou perto do prazo de vencimento, desta forma conseguimos dar um destino digino a estes produtos 
-                                                    a quem precisa, e ajudar a limpar seu estoque.
+                                                    e depois os pontos acumulados podem ser revertidos em prêmios que você mesmo vai determinar. Todo mundo gosta de receber recompensas
+                                                    dependendo da sua atividade, o custo da recompensa não tem um valor significativo para o estabelecimento, por exemplo numa barbearia 
+                                                    se realizar 10 cortes de cabelo ganha 1 grátis, este prêmio é apenas um serviço e não tem custo. O cliente voltará com mais frequência,
+                                                    e o cliente satisfeito dificilmente mudará de barbearia. Isto serve para outras atividades, no restaurante muita comida é desperdiçada
+                                                    se não for vendida no mesmo dia, e por que não dar como prêmio? E também ajuda o restaurante a diminuir o desperdicio, pois quem determina os prêmios
+                                                    são os própios lojistas.
                                                 </span>
                                             </p>
                                             <h2 style={{textAlign: "left"}}>
