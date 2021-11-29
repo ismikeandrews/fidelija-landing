@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { Logo } from '../../Assets'
+import { Fab } from '../'
 const Footer = () => {
     return (
         <footer className="u-clearfix u-footer u-grey-80" id="sec-a418">
@@ -43,6 +44,7 @@ const Footer = () => {
                     <br/>
                 </p>
             </div>
+            <Fab/>
         </footer>
     )
 }

@@ -1,5 +1,6 @@
 import React from 'react'
 import './privacy.css'
+import { Fab } from '../../Components'
 
 const Privacy = () => {
     return (
@@ -40,6 +41,7 @@ const Privacy = () => {
                     </div>
                 </div>
             </div>
+            <Fab/>
         </section>
     )
 }

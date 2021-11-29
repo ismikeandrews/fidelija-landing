@@ -1,0 +1,13 @@
+.floating-action-button {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 50%;
+    background-color: rgb(152, 236, 25);
+    padding: 10px 10px 4px 10px;
+}
+
+.floating-action-button:hover{
+    background-color: rgb(128, 196, 28);
+}

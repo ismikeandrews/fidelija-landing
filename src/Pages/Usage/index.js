@@ -1,6 +1,8 @@
 import React from 'react';
 import { Usage, Qrcode, Payment } from '../../Assets';
+import { Fab } from '../../Components'
 import './usage.css'
+
 const Plans = () => {
     return (
         <div>
@@ -294,6 +296,7 @@ const Plans = () => {
                     </div>
                 </div>
             </section>
+            <Fab/>
         </div>
     )
 }

@@ -1,5 +1,6 @@
 import React from 'react'
 import './plans.css'
+import { Fab } from '../../Components';
 
 const Plans = () => {
     return (
@@ -526,6 +527,7 @@ const Plans = () => {
                     </div>
                 </div>
             </section>
+            <Fab/>
         </div>
     )
 }

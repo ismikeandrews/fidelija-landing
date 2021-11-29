@@ -16,8 +16,8 @@ import {
     Jessica,
     Socials
 } from '../../Assets';
-
 import './home.css'
+import { Fab } from '../../Components';
 
 const Home = () => {
     return (
@@ -668,6 +668,7 @@ const Home = () => {
                     </div>
                 </div>
             </section>
+            <Fab/>
         </div>
     )
 }
