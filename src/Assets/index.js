@@ -20,3 +20,4 @@ export { default as Payment } from './Images/payment.jpg';
 export { default as Socials } from './Images/socials.jpg';
 export { default as Document } from './Images/document.jpg';
 export { default as Jessica } from './Images/jessica.JPG';
+export { default as Background } from './Images/background.jpg';
