@@ -3,7 +3,7 @@ import './styles.css';
 
 const Fab = () => {
     return (
-        <a className="floating-action-button" href="https://wa.me/+5511950603012" target="_blank">
+        <a className="floating-action-button" href="https://wa.me/+5511950603012" target="_blank" rel="noreferrer">
                 <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" width="40px" height="40px">    
                     <path 
                     d="M 12.011719 2 C 6.5057187 2 2.0234844 6.478375 2.0214844 11.984375 C 2.0204844 13.744375 
