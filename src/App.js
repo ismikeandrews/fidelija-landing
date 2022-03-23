@@ -4,10 +4,9 @@ import './global.css';
 import ReactGA from 'react-ga';
 
 const App = () => {
+    ReactGA.initialize('G-Y020XVNYRS');
+    ReactGA.pageview(window.location.pathname + window.location.search);
 
-    const TRACKING_ID = "G-Y020XVNYRS"; // YOUR_OWN_TRACKING_ID
-    ReactGA.initialize(TRACKING_ID);
-    
     return (
         <Routes/>
     )
